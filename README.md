@@ -1,1 +1,1 @@
-This Program enables a user to pull data from the DataFrame using python commands.
+The main aim of this project was to enable teachers to quickly access information of their students' performance in 3 particular subjects.Using the Pandas library a dataframe of students' results is displayed and then the user is prompted to input certain commands to display specific information; like the highest, lowest and average score of each lesson,and other relevant information.
